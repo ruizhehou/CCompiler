@@ -2,9 +2,11 @@
 
 A simple C compiler written in Rust.
 
-## English Version
+[中文版本](#中文版本)
 
-### Overview
+<a name="english-version"></a>
+
+## Overview
 
 CCompiler is an educational C compiler implementation written in Rust. It demonstrates the fundamental concepts of compiler design through a complete pipeline from source code to assembly.
 
@@ -105,7 +107,11 @@ This project is for educational purposes.
 
 ---
 
+[中文版本](#中文版本) | [Back to Top](#ccompiler)
+
 ## 中文版本
+
+[English Version](#english-version) | [回到顶部](#ccompiler)
 
 ### 概述
 
